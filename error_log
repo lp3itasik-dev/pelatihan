@@ -1,0 +1,35 @@
+[01-Jul-2022 16:33:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 105
+[01-Jul-2022 16:38:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 237
+[01-Jul-2022 16:38:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 237
+[01-Jul-2022 16:38:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 237
+[01-Jul-2022 16:38:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 237
+[01-Jul-2022 16:38:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 237
+[02-Jul-2022 11:48:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 105
+[02-Jul-2022 11:48:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 105
+[02-Jul-2022 11:49:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 105
+[02-Jul-2022 11:54:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 105
+[02-Jul-2022 11:58:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 106
+[02-Jul-2022 11:58:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 106
+[02-Jul-2022 11:58:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:58:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:58:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:58:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:1) in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:59:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function Redirect() in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:59:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function Redirect() in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:59:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function Redirect() in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83
+[02-Jul-2022 11:59:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function Redirect() in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/lp3itasik/pelatihan.politekniklp3i-tasikmalaya.ac.id/index.php on line 83

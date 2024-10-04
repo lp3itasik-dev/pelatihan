@@ -1,0 +1,11 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 104.21.70.140
